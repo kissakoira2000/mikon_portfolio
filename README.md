@@ -1,1 +1,1 @@
-"# mikon_portfolio" 
+Nettisivu jonka tehnyt harjotuksena. Sisältönä cv ja tietoja minusta.
